@@ -8,7 +8,7 @@ The goal of this project is to track my progress, practice clean code, and learn
 
 ## 📚 Contents
 
-### **Exercise 1 – Basic Calculator**
+### **Exercise 1 – Basic Arithmetic Operations**
 - Input two numbers
 - Calculate:
   - Sum
@@ -20,7 +20,7 @@ The goal of this project is to track my progress, practice clean code, and learn
   - Scanner input
   - Basic operators
 
-### **Exercise 2 – Array Statistics**
+### **Exercise 2 – Compute Statistics from a List of Numbers**
 - Input a list of numbers
 - Calculate:
   - Sum
