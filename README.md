@@ -32,7 +32,8 @@ The goal of this project is to track my progress, practice clean code, and learn
   - Loops
   - Basic algorithms
 
-**Exercise 3 – Menu-Driven Number Analysis**
+### **Exercise 3 – Menu-Driven Number Analysis**
+- Input a list of numbers
 - **Menu options:**
   - Display all numbers
   - Compute sum
