@@ -32,6 +32,20 @@ The goal of this project is to track my progress, practice clean code, and learn
   - Loops
   - Basic algorithms
 
+**Exercise 3 – Menu-Driven Number Analysis**
+- **Menu options:**
+  - Display all numbers
+  - Compute sum
+  - Compute average
+  - Find largest number
+  - Find smallest number
+  - Exit the program
+- **Practiced:**
+  - Arrays
+  - Loops
+  - Methods
+  - Switch statement
+  - Menu-driven programming
 
 
 ## 🛠️ How to Run the Code
